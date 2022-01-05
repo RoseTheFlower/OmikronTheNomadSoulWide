@@ -11,7 +11,7 @@ Experience the first Quantic Dream game in proper widescreen for the first time 
 #### Enabling the widescreen fix
 1. [Download](/../../releases) and unpack the fix archive offered here.
 2. Launch the game first, followed by the tool.
-3. Press the hotkey as displayed.
+3. Press the hotkey as displayed to toggle the fix in real time.
 
 #### Notes
 All trainers based on CE components may trigger some anti-virus software.
