@@ -1,4 +1,5 @@
 ## Omikron: The Nomad Soul widescreen and wider
+![](preview.jpg)
 
 Experience the first Quantic Dream game in proper widescreen for the first time since 1999. No more stretching or field of view reduction at 16:9 or wider.
 
@@ -20,4 +21,3 @@ Tested on the latest Steam version at 2560x1080, 3440x1440, 3840x1080, 5760x1080
 You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
 
 ![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/OmikronTheNomadSoulWide/total?style=flat-square)
-![](preview.jpg)
